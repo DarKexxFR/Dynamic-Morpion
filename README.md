@@ -22,7 +22,7 @@ This project uses Python's standard `tkinter` library. No external dependencies 
    ```
 3. Navigate to the project folder and run the game:
    ```bash
-   python "morpion reda.py"
+   python "Dynamic-Morpion.py"
    ```
    *(Note: you can rename the python file to something like `main.py` for simplicity!)*
 
