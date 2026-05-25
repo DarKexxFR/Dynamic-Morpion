@@ -1,4 +1,4 @@
-# Dynamic-Morpion 🎮 / Endless Tic-Tac-Toe
+# Dynamic-Morpion 🎮
 
 🌍 [Read in English](#english-version) | 🇫🇷 [Lire en Français](#version-française)
 
