@@ -28,7 +28,7 @@ This project uses Python's standard `tkinter` library. No external dependencies 
 
 # Dynamic-Morpion 🎮
 
-## <a id="version-française"></a> 🌍 Version Française
+## <a id="version-française"></a> 🇫🇷 Version Française
 
 **Dynamic-Morpion** est un jeu développé en Python (avec Tkinter) qui apporte une touche stratégique au jeu classique : une limite stricte de 3 symboles par joueur. Si vous en placez un 4ème, votre symbole le plus ancien disparaît ! Le plateau ne se remplit donc jamais. Jouez en local avec un ami ou défiez l'IA.
 
